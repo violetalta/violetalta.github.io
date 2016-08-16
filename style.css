@@ -25,7 +25,7 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: #ff0000;
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color:#ff0000;
     font-size: 110%;
     background:gray;
     padding: 4px;
@@ -56,7 +56,7 @@ img{
 .button {
     background: white;
     font-size: 110%;
-    color:gray;
+    color:#ff0000;
     padding: 4px;
     border:2px solid white;
 }
